@@ -1,0 +1,20 @@
+body {
+    cursor: none;
+    padding: 0 20px;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+svg {
+    width: 40px;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+h1 {
+    text-align: center;
+    opacity: 0.5;
+}
